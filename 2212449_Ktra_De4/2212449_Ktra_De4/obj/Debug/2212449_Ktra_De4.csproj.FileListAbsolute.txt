@@ -1,0 +1,14 @@
+Z:\2212449_Ktra_De4\2212449_Ktra_De4\obj\Debug\2212449_Ktra_De4.csproj.AssemblyReference.cache
+Z:\2212449_Ktra_De4\2212449_Ktra_De4\obj\Debug\_2212449_Ktra_De4.Form2.resources
+Z:\2212449_Ktra_De4\2212449_Ktra_De4\obj\Debug\_2212449_Ktra_De4.FormSach.resources
+Z:\2212449_Ktra_De4\2212449_Ktra_De4\obj\Debug\_2212449_Ktra_De4.Properties.Resources.resources
+Z:\2212449_Ktra_De4\2212449_Ktra_De4\obj\Debug\2212449_Ktra_De4.csproj.GenerateResource.cache
+Z:\2212449_Ktra_De4\2212449_Ktra_De4\obj\Debug\2212449_Ktra_De4.csproj.CoreCompileInputs.cache
+Z:\2212449_Ktra_De4\2212449_Ktra_De4\bin\Debug\2212449_Ktra_De4.exe.config
+Z:\2212449_Ktra_De4\2212449_Ktra_De4\bin\Debug\2212449_Ktra_De4.exe
+Z:\2212449_Ktra_De4\2212449_Ktra_De4\bin\Debug\2212449_Ktra_De4.pdb
+Z:\2212449_Ktra_De4\2212449_Ktra_De4\bin\Debug\Newtonsoft.Json.dll
+Z:\2212449_Ktra_De4\2212449_Ktra_De4\bin\Debug\Newtonsoft.Json.xml
+Z:\2212449_Ktra_De4\2212449_Ktra_De4\obj\Debug\2212449_Ktra_De4.csproj.CopyComplete
+Z:\2212449_Ktra_De4\2212449_Ktra_De4\obj\Debug\2212449_Ktra_De4.exe
+Z:\2212449_Ktra_De4\2212449_Ktra_De4\obj\Debug\2212449_Ktra_De4.pdb
